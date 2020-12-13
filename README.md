@@ -1,2 +1,2 @@
 # movie-recommendation-app
-Created with CodeSandbox
+A movie recommendation app created with reactjs 
